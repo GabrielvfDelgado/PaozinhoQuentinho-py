@@ -1,4 +1,4 @@
-# 🥖 BreadAlert-Py
+# 🥖 PaozinhoQuentinho-Py
 
 Um sistema inteligente de notificações de "Pão Quente" via WhatsApp, desenvolvido com **Python**, **FastAPI** e **Evolution API**.
 
