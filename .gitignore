@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Paozinho Quentinho Specific
+test_send.py
+mongodb_data/
+redis_data/
+evolution_instances/
+evolution_store/
+.env
+*.log
+
